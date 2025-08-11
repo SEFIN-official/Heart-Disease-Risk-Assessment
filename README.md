@@ -61,7 +61,7 @@ HEART_DISEASE_PROJECT/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/heart-disease-risk-assessment.git
+git clone https://github.com/SEFIN-official/Heart-Disease-Risk-Assessment.git
 cd HEART_DISEASE_PROJECT
 2️⃣ Install Dependencies
 pip install -r requirements.txt
